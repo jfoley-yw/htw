@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw06-HTWView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw06_HTWView_jar</output-path>
+    <root id="archive" name="hw06-HTWView.jar">
+      <element id="module-output" name="hw06-HTWView" />
+    </root>
+  </artifact>
+</component>
